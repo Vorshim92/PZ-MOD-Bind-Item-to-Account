@@ -1,6 +1,6 @@
 version=1
 id=
-title=Template
+title=Bind Item to Account
 description=description
 tags=Build 41;
 visibility=public
